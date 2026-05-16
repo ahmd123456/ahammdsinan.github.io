@@ -1,0 +1,62 @@
+@media only screen and (max-width: 999px){
+    .col-md-7{
+        width: 100%;
+    }
+    .f1content h1{
+        font-size: 35px;
+    }
+    .banner .content h1{
+        font-size: 40px;
+    }
+}
+@media only screen and (max-width: 600px){
+    .about .image img{
+        width: 100%;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .banner .content ul{
+        padding-bottom: 20px;
+    }
+    .banner .content h4{
+        font-size: 25px;
+    } 
+    .banner .content h2{
+        font-size: 35px;
+    }
+    .banner .content h1{
+        font-size: 35px;
+    }
+    .banner .pic {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+   }
+   .about .button-1{
+    width: 100%;
+   }
+   .contact .button-28{
+    width: 100%;
+   }
+    .contact .details{
+        margin-bottom: 20px;
+    }
+    .banner .content a{
+        font-size: 15px;
+        padding: 8px 12px;
+        
+    }
+    .contact p{
+        width: 100%;
+    }
+
+    footer p{
+        font-size: 14px;
+    }
+}
+@media only screen and (max-width:364px){
+    .banner .content a{
+        margin: 5px 0;
+    }
+}
